@@ -1,10 +1,14 @@
-ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
+<h1>Regex validate PIN code</h1>
 
-If the function is passed a valid PIN string, return true, else return false.
+<p>ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.</p>
 
-examples:
+<p>If the function is passed a valid PIN string, return true, else return false.</p>
 
-validatePIN("1234") === true
-validatePIN("12345") === false
-validatePIN("a234") === false
+<h2>examples:</h2>
+
+<ul>
+<li>validatePIN("1234") === true</li>
+<li>validatePIN("12345") === false</li>
+<li>validatePIN("a234") === false</li>
+</ul>
 

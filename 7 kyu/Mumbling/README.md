@@ -1,8 +1,12 @@
-This time no story, no theory. The examples below show you how to write function accum:
+<h1>Mumbling</h1>
 
-Examples:
+<p>This time no story, no theory. The examples below show you how to write function accum:</p>
 
-accum("abcd");    // "A-Bb-Ccc-Dddd"
-accum("RqaEzty"); // "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
-accum("cwAt");    // "C-Ww-Aaa-Tttt"
+<h2>Examples:</h2>
+
+<ul>
+<li>accum("abcd");    // "A-Bb-Ccc-Dddd"</li>
+<li>accum("RqaEzty"); // "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"</li>
+<li>accum("cwAt");    // "C-Ww-Aaa-Tttt"</li>
+</ul>
 
