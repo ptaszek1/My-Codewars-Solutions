@@ -1,7 +1,4 @@
 
-```html
-
-
 
 <h2>Example of code</h2>
 <pre>
@@ -14,7 +11,7 @@
         </div>
     </div>
 </pre>
-```
+
 
 
 
