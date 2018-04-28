@@ -1,4 +1,4 @@
-# My-Codewars-Solutions
+# My Codewars Solutions
 
 <img alt="Logo" src="https://www.codewars.com/users/ptaszek1/badges/large">
 
