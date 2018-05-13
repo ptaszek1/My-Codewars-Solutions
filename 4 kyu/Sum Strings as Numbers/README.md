@@ -1,8 +1,8 @@
-# :star:Sum Strings as Numbers
+# Sum Strings as Numbers:star:
 
 Given the string representations of two integers, return the string representation of the sum of those integers.
 
-# :star:Examples:
+# Examples:star:
 
 > sumStrings('1','2') // => '3'
 
