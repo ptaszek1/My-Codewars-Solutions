@@ -1,9 +1,9 @@
-<h1>Create Phone Number</h1>
+# :star:Create Phone Number
 
-<p>Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.</p>
-<h2>Examples:</h2>
+Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
 
-<ul>
-<li>createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-7890"</li>
-</ul>
+# :star:Examples:
+
+> createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-7890"
+
 
