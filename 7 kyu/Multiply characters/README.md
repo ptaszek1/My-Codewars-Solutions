@@ -1,11 +1,11 @@
-<h1>Multiply characters</h1>
+# :star:Multiply characters
 
-<p>Here we have a function that help us spam our hearty laughter. But is not working! I need you to find out why...</p>
-<h2>Examples:</h2>
+Here we have a function that help us spam our hearty laughter. But is not working! I need you to find out why...
+# :star:Examples:
 
-<ul>
-<li>spam(1);  // hue</li>
-<li>spam(6);  // huehuehuehuehuehue</li>
-<li>spam(14); // huehuehuehuehuehuehuehuehuehuehuehuehuehue</li>
-</ul>
+
+> spam(1);  // hue <br>
+spam(6);  // huehuehuehuehuehue<br>
+spam(14); // huehuehuehuehuehuehuehuehuehuehuehuehuehue</li>
+
 

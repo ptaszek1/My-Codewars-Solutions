@@ -1,14 +1,13 @@
-<h1>Highest and Lowest</h1>
+# :star:Highest and Lowest
 
-<p>In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.</p>
+In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
 
-<h2>Example:</h2>
+# :star:Example:
 
-<ul>
-    <li>highAndLow("1 2 3 4 5"); // return "5 1"</li>
-    <li>highAndLow("1 2 -3 4 5"); // return "5 -3"</li>
-    <li>highAndLow("1 9 3 4 -5"); // return "9 -5"</li>
-</ul>
+> highAndLow("1 2 3 4 5"); // return "5 1" <br>
+highAndLow("1 2 -3 4 5"); // return "5 -3" <br>
+highAndLow("1 9 3 4 -5"); // return "9 -5"
+
 
 
 

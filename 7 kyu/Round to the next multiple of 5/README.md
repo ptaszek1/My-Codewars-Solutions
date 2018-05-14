@@ -1,14 +1,14 @@
-<h1>Round to the next multiple of 5.</h1>
+# :star:Round to the next multiple of 5.
 
-<p>Given an integer as input, can you round it to the next (meaning, "higher") 5?</p>
-<h2>Examples:</h2>
-<ul>
-<li>0    ->   0</li>
-<li>2    ->   5</li>
-<li>3    ->   5</li>
-<li>12   ->   15</li>
-<li>21   ->   25</li>
-<li>30   ->   30</li>
-<li>-2   ->   0</li>
-</ul>
+Given an integer as input, can you round it to the next (meaning, "higher") 5?
+# :star:Examples:
+
+> 0    ->   0 <br>
+2    ->   5 <br>
+3    ->   5 <br>
+12   ->   15 <br>
+21   ->   25 <br>
+30   ->   30 <br>
+-2   ->   0
+
 

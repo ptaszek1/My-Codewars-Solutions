@@ -1,12 +1,11 @@
-<h1>Form The Largest</h1>
+# :star:Form The Largest
 
-<p>Given a number , Return The Maximum number could be formed from the digits of the number given . </p>
+Given a number , Return The Maximum number could be formed from the digits of the number given .
 
-<h2>Examples:</h2>
+# :star:Examples:
 
-<ul>
-<li>1- maxNumber (213) ==> return (321)</li>
-<li>2- maxNumber (7389) ==> return (9873)</li>
-<li>3- maxNumber (63729) ==> return (97632)</li>
-</ul>
+> 1- maxNumber (213) ==> return (321)<br>
+2- maxNumber (7389) ==> return (9873)<br>
+3- maxNumber (63729) ==> return (97632)
+
 
