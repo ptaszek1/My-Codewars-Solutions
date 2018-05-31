@@ -1,8 +1,20 @@
 # :star:Take the Derivative
 
-This function takes two numbers as parameters, the first number being the coefficient, and the second number being the exponent. Your coefficient should multiply the two numbers, and then subtract 1 from the exponent. Then, it has to print out an expression (like 28x^7).
+NOTE! This kata can be more difficult than regular 8-kyu katas
+
+Complete the function which get an input number n such that n >= 10 and n < 10000, then:
+
+    Sum all the digits of n.
+    Subtract the sum from n, and it is your new n.
+    If the new n is in the list below return the associated fruit, otherwise return back to task 1.
+
 
 # :star:Examples:
 
->   derive(7,8) // this should output "56x^7" <br>
-    derive(5,9) // this should output "45x^8"
+    n = 325
+    sum = 3+2+5 = 10
+    n = 325-10 = 315 (not in the list)
+    sum = 3+1+5 = 9
+    n = 315-9 = 306 (not in the list)
+    sum = 3+0+6 = 9
+    n =306-9 = 297 (not in the list)
