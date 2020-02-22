@@ -1,0 +1,1 @@
+const pillars = (num_pill, dist, width) => (num_pill > 1) ? (((num_pill - 1) * dist) * 100) + (width * num_pill - width * 2) : 0;

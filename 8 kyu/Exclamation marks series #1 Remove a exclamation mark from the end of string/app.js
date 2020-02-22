@@ -1,0 +1,1 @@
+const remove = (s) => (s.substr(s.length - 1) == '!') ? s.slice(0, -1) : s;
