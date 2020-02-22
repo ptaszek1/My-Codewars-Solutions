@@ -1,0 +1,1 @@
+const isPalindrome = (line) => (line.toString().split('').reverse().join('') == line) ? true : false;
