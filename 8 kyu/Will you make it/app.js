@@ -1,0 +1,1 @@
+const zeroFuel = (d, m, f) => { return (f * m >= d) ? 1 : 0};
