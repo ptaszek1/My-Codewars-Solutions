@@ -1,0 +1,1 @@
+function fireFight(s){ return s.split("Fire").join('~~') }
